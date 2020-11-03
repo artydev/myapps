@@ -1,0 +1,10 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "mergerino": "^0.4.0",
+    "mithril": "^2.0.4",
+    "mithril-stream": "^2.0.0"
+  }
+}
